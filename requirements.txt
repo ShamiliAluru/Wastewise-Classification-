@@ -1,0 +1,3 @@
+# Lightweight interface dependencies. TensorFlow is optional until a model is trained.
+streamlit>=1.39,<2.0
+Pillow>=10.0,<13.0

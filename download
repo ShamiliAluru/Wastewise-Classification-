@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.venv-ml/
+data/
+data_garbage/
+data_wastewise/
+models/*.keras
+models/metadata.json
+.streamlit/secrets.toml
